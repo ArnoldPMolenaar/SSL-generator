@@ -6,8 +6,8 @@ SH script to generate local SSL's
 chmod +x generate.sh
 ```
 
--> Setup domains.txt equal with your nginx or apache domains
--> Execute ./generate.sh
+1. Setup domains.txt equal with your nginx or apache domains
+2. Execute ./generate.sh
 
 ## Create a sym link with current
 ```
